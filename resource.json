@@ -1,0 +1,180 @@
+{
+    "header": [
+        " *   ",
+        " *   文件描述：本文件为网页资源信息",
+        " *   success字段为下载保存成功的资源;failures字段则为下载保存失败的资源URL",
+        " *   success字段为标准树结构，每一层资源父子关系、URL和保存路径清晰明了",
+        " *   本文件仅为记录检测到的网页资源以便于调试，非专业人员可将本文件删除",
+        " *   详细介绍请参考: https://bazhan.me/faq",
+        " *   "
+    ],
+    "success": [
+        {
+            "url": "https://zhangdashuai.com/",
+            "path": "index.html",
+            "children": [
+                {
+                    "url": "https://zhangdashuai.com/wp-content/uploads/2020/01/touxiang111-e1580303082874.jpg",
+                    "path": "images/touxiang111-e1580303082874.jpeg"
+                },
+                {
+                    "url": "https://zhangdashuai.com/wp-content/uploads/2020/06/00d8aff30a7ab014a4890d562ccd590.jpg",
+                    "path": "images/00d8aff30a7ab014a4890d562ccd590.jpeg"
+                },
+                {
+                    "url": "https://zhangdashuai.com/wp-content/themes/JieStyle-Two-master/JieStyle-Two-master/js/jquery.min.js",
+                    "path": "js/jquery.min.js"
+                },
+                {
+                    "url": "https://zhangdashuai.com/wp-content/themes/JieStyle-Two-master/JieStyle-Two-master/js/bootstrap.min.js",
+                    "path": "js/bootstrap.min.js"
+                },
+                {
+                    "url": "https://zhangdashuai.com/wp-content/themes/JieStyle-Two-master/JieStyle-Two-master/js/skel.min.js",
+                    "path": "js/skel.min.js"
+                },
+                {
+                    "url": "https://zhangdashuai.com/wp-content/themes/JieStyle-Two-master/JieStyle-Two-master/js/util.min.js",
+                    "path": "js/util.min.js"
+                },
+                {
+                    "url": "https://zhangdashuai.com/wp-content/themes/JieStyle-Two-master/JieStyle-Two-master/js/nav.js",
+                    "path": "js/nav.js"
+                },
+                {
+                    "url": "https://zhangdashuai.com/wp-content/themes/JieStyle-Two-master/JieStyle-Two-master/css/bootstrap.min.css",
+                    "path": "css/bootstrap.min.css",
+                    "children": [
+                        {
+                            "url": "https://zhangdashuai.com/wp-content/themes/JieStyle-Two-master/JieStyle-Two-master/fonts/glyphicons-halflings-regular.eot",
+                            "path": "fonts/glyphicons-halflings-regular.eot"
+                        },
+                        {
+                            "url": "https://zhangdashuai.com/wp-content/themes/JieStyle-Two-master/JieStyle-Two-master/fonts/glyphicons-halflings-regular.woff2",
+                            "path": "fonts/glyphicons-halflings-regular.woff2"
+                        },
+                        {
+                            "url": "https://zhangdashuai.com/wp-content/themes/JieStyle-Two-master/JieStyle-Two-master/fonts/glyphicons-halflings-regular.woff",
+                            "path": "fonts/glyphicons-halflings-regular.woff"
+                        },
+                        {
+                            "url": "https://zhangdashuai.com/wp-content/themes/JieStyle-Two-master/JieStyle-Two-master/fonts/glyphicons-halflings-regular.ttf",
+                            "path": "fonts/glyphicons-halflings-regular.ttf"
+                        },
+                        {
+                            "url": "https://zhangdashuai.com/wp-content/themes/JieStyle-Two-master/JieStyle-Two-master/fonts/glyphicons-halflings-regular.svg#glyphicons_halflingsregular",
+                            "path": "images/glyphicons-halflings-regular.svg"
+                        }
+                    ]
+                },
+                {
+                    "url": "https://zhangdashuai.com/wp-content/themes/JieStyle-Two-master/JieStyle-Two-master/css/fontawesome.min.css",
+                    "path": "css/fontawesome.min.css",
+                    "children": [
+                        {
+                            "url": "https://zhangdashuai.com/wp-content/themes/JieStyle-Two-master/JieStyle-Two-master/webfonts/fa-brands-400.eot",
+                            "path": "fonts/fa-brands-400.eot"
+                        },
+                        {
+                            "url": "https://zhangdashuai.com/wp-content/themes/JieStyle-Two-master/JieStyle-Two-master/webfonts/fa-brands-400.woff2",
+                            "path": "fonts/fa-brands-400.woff2"
+                        },
+                        {
+                            "url": "https://zhangdashuai.com/wp-content/themes/JieStyle-Two-master/JieStyle-Two-master/webfonts/fa-brands-400.woff",
+                            "path": "fonts/fa-brands-400.woff"
+                        },
+                        {
+                            "url": "https://zhangdashuai.com/wp-content/themes/JieStyle-Two-master/JieStyle-Two-master/webfonts/fa-brands-400.ttf",
+                            "path": "fonts/fa-brands-400.ttf"
+                        },
+                        {
+                            "url": "https://zhangdashuai.com/wp-content/themes/JieStyle-Two-master/JieStyle-Two-master/webfonts/fa-brands-400.svg#fontawesome",
+                            "path": "images/fa-brands-400.svg"
+                        },
+                        {
+                            "url": "https://zhangdashuai.com/wp-content/themes/JieStyle-Two-master/JieStyle-Two-master/webfonts/fa-regular-400.eot",
+                            "path": "fonts/fa-regular-400.eot"
+                        },
+                        {
+                            "url": "https://zhangdashuai.com/wp-content/themes/JieStyle-Two-master/JieStyle-Two-master/webfonts/fa-regular-400.woff2",
+                            "path": "fonts/fa-regular-400.woff2"
+                        },
+                        {
+                            "url": "https://zhangdashuai.com/wp-content/themes/JieStyle-Two-master/JieStyle-Two-master/webfonts/fa-regular-400.woff",
+                            "path": "fonts/fa-regular-400.woff"
+                        },
+                        {
+                            "url": "https://zhangdashuai.com/wp-content/themes/JieStyle-Two-master/JieStyle-Two-master/webfonts/fa-regular-400.ttf",
+                            "path": "fonts/fa-regular-400.ttf"
+                        },
+                        {
+                            "url": "https://zhangdashuai.com/wp-content/themes/JieStyle-Two-master/JieStyle-Two-master/webfonts/fa-regular-400.svg#fontawesome",
+                            "path": "images/fa-regular-400.svg"
+                        },
+                        {
+                            "url": "https://zhangdashuai.com/wp-content/themes/JieStyle-Two-master/JieStyle-Two-master/webfonts/fa-solid-900.eot",
+                            "path": "fonts/fa-solid-900.eot"
+                        },
+                        {
+                            "url": "https://zhangdashuai.com/wp-content/themes/JieStyle-Two-master/JieStyle-Two-master/webfonts/fa-solid-900.woff2",
+                            "path": "fonts/fa-solid-900.woff2"
+                        },
+                        {
+                            "url": "https://zhangdashuai.com/wp-content/themes/JieStyle-Two-master/JieStyle-Two-master/webfonts/fa-solid-900.woff",
+                            "path": "fonts/fa-solid-900.woff"
+                        },
+                        {
+                            "url": "https://zhangdashuai.com/wp-content/themes/JieStyle-Two-master/JieStyle-Two-master/webfonts/fa-solid-900.ttf",
+                            "path": "fonts/fa-solid-900.ttf"
+                        },
+                        {
+                            "url": "https://zhangdashuai.com/wp-content/themes/JieStyle-Two-master/JieStyle-Two-master/webfonts/fa-solid-900.svg#fontawesome",
+                            "path": "images/fa-solid-900.svg"
+                        }
+                    ]
+                },
+                {
+                    "url": "https://zhangdashuai.com/wp-content/themes/JieStyle-Two-master/JieStyle-Two-master/style.css",
+                    "path": "css/style.css",
+                    "children": [
+                        {
+                            "url": "https://zhangdashuai.com/wp-content/themes/JieStyle-Two-master/JieStyle-Two-master/images/footer-line.png",
+                            "path": "images/footer-line.png"
+                        }
+                    ]
+                },
+                {
+                    "url": "https://zhangdashuai.com/wp-includes/css/dist/block-library/style.min.css?ver=5.3.1",
+                    "path": "css/style.min.css"
+                },
+                {
+                    "url": "https://zhangdashuai.com/wp-content/plugins/xydown/css/blue.css",
+                    "path": "css/blue.css",
+                    "children": [
+                        {
+                            "url": "https://zhangdashuai.com/wp-content/plugins/xydown/img/down.jpg",
+                            "path": "images/down.jpg"
+                        }
+                    ]
+                },
+                {
+                    "url": "https://zhangdashuai.com/wp-content/themes/JieStyle-Two-master/JieStyle-Two-master/images/icon_32.png",
+                    "path": "images/icon_32.png"
+                },
+                {
+                    "url": "https://zhangdashuai.com/wp-content/themes/JieStyle-Two-master/JieStyle-Two-master/images/icon_152.png",
+                    "path": "images/icon_152.png"
+                },
+                {
+                    "url": "https://zhangdashuai.com/wp-content/themes/JieStyle-Two-master/JieStyle-Two-master/images/icon_167.png",
+                    "path": "images/icon_167.png"
+                },
+                {
+                    "url": "https://zhangdashuai.com/wp-content/themes/JieStyle-Two-master/JieStyle-Two-master/images/icon_180.png",
+                    "path": "images/icon_180.png"
+                }
+            ]
+        }
+    ],
+    "failures": []
+}

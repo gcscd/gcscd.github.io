@@ -1,0 +1,54 @@
+{
+    "header": [
+        " *   ",
+        " *   文件描述：本文件为请求参数，包括不限于网址、请求头、响应头、COOKIE、Referer、UserAgent",
+        " *   本文件仅为记录详细请求参数便于调试，非专业人员可将本文件删除",
+        " *   详细介绍请参考: https://bazhan.me/faq",
+        " *   "
+    ],
+    "directory": "zhangdashuai-com-hnituvkt",
+    "options": {
+        "url": "https://zhangdashuai.com/",
+        "index": "index.html",
+        "domain": "zhangdashuai.com",
+        "origin": "https://zhangdashuai.com",
+        "ipaddress": "121.42.9.198",
+        "originURL": "https://zhangdashuai.com/",
+        "filenameGenerator": "byType",
+        "request": {
+            "headers": {
+                "accept": "text/html,*/*",
+                "accept-language": "zh-CN,zh;q=0.9",
+                "accept-encoding": "gzip",
+                "cache-control": "no-cache",
+                "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+                "x-scraper-website": "https://bazhan.me/"
+            }
+        },
+        "response": {
+            "statusCode": 200,
+            "headers": {
+                "server": "nginx",
+                "date": "Sat, 10 Apr 2021 18:15:53 GMT",
+                "content-type": "text/html; charset=UTF-8",
+                "transfer-encoding": "chunked",
+                "connection": "close",
+                "vary": "Accept-Encoding, Accept-Encoding, Cookie",
+                "cache-control": "max-age=3, must-revalidate",
+                "last-modified": "Sat, 10 Apr 2021 18:05:16 GMT",
+                "content-encoding": "gzip"
+            }
+        }
+    },
+    "user": {
+        "isWhite": false
+    },
+    "formatter": [
+        "saveOriginal"
+    ],
+    "time": {
+        "start": 1618078553159,
+        "end": 1618078566315,
+        "spend": 13.156
+    }
+}
